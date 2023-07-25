@@ -10,9 +10,9 @@
 
 ![Section 5](https://github.com/bb2882/Uber/assets/70382872/a62bffef-3850-41d3-aeb2-c2c833dc993c)
 
-![Section 6](https://github.com/bb2882/wordpress/assets/70382872/ddfc023b-00c1-4917-9f92-954698ef7f41)![Uploading 6.jpg…]()
+![Section 6](https://github.com/bb2882/wordpress/assets/70382872/ddfc023b-00c1-4917-9f92-954698ef7f41)
 
-![Section 7](https://github.com/bb2882/wordpress/assets/70382872/9bb5a149-39c0-4624-b31d-13da014a706c)![Uploading 7.jpg…]()
+![Section 7](https://github.com/bb2882/wordpress/assets/70382872/9bb5a149-39c0-4624-b31d-13da014a706c)
 
 Welcome to My Uber Promotion Website! This project is a static website built with HTML, CSS, and a touch of JavaScript to enhance the user experience. The website promotes the latest Uber promotions and offers in a sleek and user-friendly manner.
 
