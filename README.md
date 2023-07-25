@@ -1,18 +1,19 @@
 # Uber Promotion Website
 
-![Section 1](https://github.com/bb2882/Uber/assets/70382872/0e503b33-9add-4803-8194-9d85b0bd29da)
+![Section 1](https://github.com/bb2882/Uber/assets/70382872/c13c0796-5779-46ff-926b-39687077101b)
 
-![Section 2](https://github.com/bb2882/Uber/assets/70382872/a38fd643-4147-4ef4-a2e0-a2322bfa4087)
+![Section 2](https://github.com/bb2882/Uber/assets/70382872/22a503ea-bcab-4274-9b62-c6283ee4e2f5)
 
-![Section 3](https://github.com/bb2882/Uber/assets/70382872/ff94a10c-c658-48f8-8d3e-896cc7ef6bca)
+![Section 3](https://github.com/bb2882/Uber/assets/70382872/c6d18726-83ae-4b4e-b469-d25c3be0d260)
 
 ![Section 4](https://github.com/bb2882/Uber/assets/70382872/43a10193-d5dc-4ac6-9e56-433f70710bab)
 
 ![Section 5](https://github.com/bb2882/Uber/assets/70382872/a62bffef-3850-41d3-aeb2-c2c833dc993c)
 
-![Section 6](https://github.com/bb2882/wordpress/assets/70382872/ddfc023b-00c1-4917-9f92-954698ef7f41)
+![Section 6](https://github.com/bb2882/Uber/assets/70382872/d222d54a-37f6-417a-a9e8-2346ecd4d832)
 
-![Section 7](https://github.com/bb2882/wordpress/assets/70382872/9bb5a149-39c0-4624-b31d-13da014a706c)
+![Section 7](https://github.com/bb2882/Uber/assets/70382872/e543c887-f563-427e-b284-9124dc7f5c8f)
+
 
 Welcome to My Uber Promotion Website! This project is a static website built with HTML, CSS, and a touch of JavaScript to enhance the user experience. The website promotes the latest Uber promotions and offers in a sleek and user-friendly manner.
 
