@@ -44,4 +44,4 @@ To explore the My Uber Promotion Website locally on your computer, follow these 
 
 3. **Mobile Menu Interaction:** When viewing the website on smaller screens, such as phones, you'll notice a hamburger button in the top corner. Click the button to open the menu and explore the navigation options.
 
-Now you can experience the Uber promotions and explore the interactive features of the website on your local machine.
+Now you can experience the Uber promotions and explore the interactive features of the website on your local machine. 
